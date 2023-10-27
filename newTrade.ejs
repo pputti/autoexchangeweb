@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+        <title>Trade-In</title>
+        <link rel="stylesheet" href="CSS/newTrade.css">
+    </head>
+        <body>
+            <nav>
+                <a href="/"><img class="Image" src="Images/Logo.jpg" alt="Logo" width="80px" height="80px"></a>
+                <ul class="nav-bar">
+                    <li><a href="newTrade">Start Trading! </a></li>
+                    <li><a href="#"> Login  |  </a></li>
+                    <li><a href="#">Sign up</li>
+                </ul>
+                <hr>
+                <a class="tradesLink" href="trades">Trades</a>
+            </nav>
+            <form action="trades">
+                <div>
+                <div class="Model">
+                <label for="Model">Model:</label><br>
+                <input type="text" id="Model" name="Model" value=" " placeholder="Car Model"><br>
+                </div>
+                <div class="Type">
+                <label for="Type">Type:</label><br>
+                <input type="text" id="Type" name="Type" value=" " placeholder="Type of the car"><br>
+                </div>
+                <div class="License">
+                <label for="License">License:</label><br>
+                <input type="Text" id="License Number" name="License" value=" " placeholder="Enter License Number"><br>
+                </div>
+                <div class="Description">
+                    <label for="Type">Description:</label><br>
+                <textarea rows="10" cols="65" name="comment" form="usrform"></textarea>
+                </div>
+                </div>
+                <div class="row">
+                <input type="submit" value="Create Trade">
+                </div>
+              </form>
+            <footer class="footer-box">
+                <div>
+                    <p>Copyright &copy;2023 | <a href="#"> About</a> | <a href="#">Contact </a>
+                    </p>
+                </div>
+            </footer>
+            </body>
+            </html>
