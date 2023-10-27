@@ -1,0 +1,57 @@
+conn = new Mongo();
+db = conn.getDB("trades");
+db.trade_names.drop();
+db.createCollection('trade_names');
+
+db.trade_names.insertOne({
+  item_model: "Compact SUV",
+  item_category: "SUV",
+  item_details: "A compact sport utility vehicle or compact SUV is a class of small sport utility vehicles that is larger than mini SUVs, but smaller than   mid-size SUVs.",
+  item_status: "untraded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+db.trade_names.insertOne({
+  item_model: "Crossover SUV",
+  item_category: "SUV",
+  item_details: "crossover is lighter and built on a car platform, while a traditional SUV is heavier and uses a truck chassis.",
+  item_status: "traded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+
+db.trade_names.insertOne({
+  item_model: "electric SUV",
+  item_category: "SUV",
+  item_details: "This vehicle has no internal combustion engine and is powered only by the battery and electric motor.",
+  item_status: "untraded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+
+db.trade_names.insertOne({
+  item_model: "compact sedan",
+  item_category: "Sedan",
+  item_details: "Compact car is a vehicle size class — predominantly used in North America — that sits between subcompact cars and mid-size cars.",
+  item_status: "traded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+
+db.trade_names.insertOne({
+  item_model: "crossover sedan",
+  item_category: "Sedan",
+  item_details: "Compact car is a vehicle size class — predominantly used in North America — that sits between subcompact cars and mid-size cars.",
+  item_status: "traded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+db.trade_names.insertOne({
+  item_model: "hybrid sedan",
+  item_category: "Sedan",
+  item_details: "A hybrid electric vehicle (HEV) is a type of hybrid vehicle that combines a conventional internal combustion engine",
+  item_status: "traded",
+  item_URL:"https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615234/2023_acura_integra_angularfront.jpg"
+  
+})
+
