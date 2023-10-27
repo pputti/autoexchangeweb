@@ -1,0 +1,26 @@
+[{
+  "firstName": "pravallika",
+  "lastName": "putti",
+  "email": "pputti@uncc.edu",
+  "password": "$2b$10$vOukHZ4B7m0eEAXTCw2VlOiw3i51f7YL1kI169gMyygPle41YhYF2"
+},{
+  "firstName": "abc",
+  "lastName": "def",
+  "email": "abc@gmail.com",
+  "password": "$2b$10$uaz.GMnp0BddEZLSttejoerYemQkHkvpdXmaPQ2.E46VjEcRCtmVG"
+},{
+  "firstName": "test",
+  "lastName": "t1",
+  "email": "test1@yahoo.com",
+  "password": "$2b$10$YvD9SpbhTFwbf/y78Ezz9eL2BfCy.iRGyXP6ncKJ6q8ucmqSR7Qf6"
+},{
+  "firstName": "test",
+  "lastName": "t2",
+  "email": "test2@yahoo.com",
+  "password": "$2b$10$hbXY/yyL5Dcc8it0FwA09OUtYwDXUfsXEYvCLLHDQJKmrYwz4m22G"
+},{
+  "firstName": "test",
+  "lastName": "t4",
+  "email": "test4@gmail.com",
+  "password": "$2b$10$ENxV/zYHTHOQ.UtwAG.hEevP5l0aJVgDezplg2qn20OEsVwb3NF3m"
+}]

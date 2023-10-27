@@ -1,0 +1,7 @@
+[{
+  "_id": "n8mGZTzpeI_xdTGZcDz4nXshrKNS6yYb",
+  "expires": {
+    "$date": "2023-05-11T23:28:51.051Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":3600000,\"expires\":\"2023-05-11T23:28:46.104Z\",\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"user\":\"64495239b982a20f403c219d\"}"
+}]
