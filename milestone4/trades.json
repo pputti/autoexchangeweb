@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "64495280b982a20f403c21a9"
+  },
+  "title": "hybrid",
+  "category": "SUV",
+  "details": "before buttons1",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T16:34:08.871Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:37:42.273Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644995d6b982a20f403c21ee"
+  },
+  "title": "compact",
+  "category": "Sedan",
+  "details": "is it gng to workout",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:21:26.585Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:35:34.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64499822b982a20f403c2217"
+  },
+  "title": "coupe",
+  "category": "SUV",
+  "details": "A coupe SUV is a type of sport utility vehicle with a sloping rear roofline similar to those of fastbacks or Kammbacks. The sloping roofline is adopted to offer a styling advantage compared to its standard SUV counterpart,[1][2] which helps increase profit margins as manufacturers are able to raise the price by marketing it as a more premium model.[3] Since all coupe SUVs ever produced are of the crossover variety, coupe SUVs may also be called \"coupe crossovers\" or \"coupe crossover SUVs\".",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:31:14.923Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:38:24.417Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644998c4b982a20f403c221a"
+  },
+  "title": "wagon",
+  "category": "SUV",
+  "details": "an automobile that has a passenger compartment which extends to the back of the vehicle, that has no trunk, that has one or more rear seats which can be folded down to make space for light cargo, and that has a tailgate or liftgate.",
+  "status": "traded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:33:56.555Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:38:35.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644998e5b982a20f403c221d"
+  },
+  "title": "crossover",
+  "category": "Sedan",
+  "details": "compartment which extends to the back of the vehicle, that has no trunk, that has one or more rear seats which can be folded down to make space for light cargo.",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:34:29.641Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:35:46.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449991bb982a20f403c2220"
+  },
+  "title": "Electric",
+  "category": "Sedan",
+  "details": "A EV is defined as a vehicle that can be powered by an electric motor that draws electricity from a battery and is capable of being charged from an external source.",
+  "status": "traded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:35:23.701Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:35:23.701Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64499991b982a20f403c2248"
+  },
+  "title": "HatchBack",
+  "category": "Sedan",
+  "details": "A hatchback is smaller than an SUV or minivan, but larger than a sedan. The main difference between a hatchback and a sedan is the extended trunk. Instead of the back sloping downwards, the back area is lifted, providing extra space for cargo.",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:37:21.046Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:37:21.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64499b3fb982a20f403c2291"
+  },
+  "title": "Toyata",
+  "category": "Sedan",
+  "details": "A sedan is defined as a 4-door passenger car with a trunk that is separate from the passengers with a three-box body: the engine, the area for passengers, and the trunk.\r\n",
+  "status": "traded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:44:31.973Z"
+  },
+  "updatedDate": {
+    "$date": "2023-04-26T21:44:31.973Z"
+  },
+  "__v": 0
+}]

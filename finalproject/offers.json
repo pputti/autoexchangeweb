@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "645b95053b8d265b346ae826"
+  },
+  "Name": "hybrid",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb08a3b8d265b346ae925"
+  },
+  "Name": "wagon",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb0cc3b8d265b346ae945"
+  },
+  "Name": "coupe",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb1183b8d265b346ae960"
+  },
+  "Name": "coupe",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb15f3b8d265b346ae969"
+  },
+  "Name": "coupe",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb2823b8d265b346ae97c"
+  },
+  "Name": "Van",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bbf093b8d265b346aeadf"
+  },
+  "Name": "Van",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bbfb43b8d265b346aeaee"
+  },
+  "Name": "Van",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bbfe43b8d265b346aeaf8"
+  },
+  "Name": "HatchBack",
+  "Status": "Offer Pending",
+  "Category": "Sedan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bc1443b8d265b346aeb02"
+  },
+  "Name": "HatchBack",
+  "Status": "Offer Pending",
+  "Category": "Sedan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bc1773b8d265b346aeb0c"
+  },
+  "Name": "HatchBack",
+  "Status": "Offer Pending",
+  "Category": "Sedan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bc1b1bcdc4e4854850b5d"
+  },
+  "Name": "HatchBack",
+  "Status": "Offer Pending",
+  "Category": "Sedan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd6fcbcdc4e4854850bd8"
+  },
+  "Name": "hybrid",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd7e2f8fa995d9482d3d3"
+  },
+  "Name": "hybrid",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd84df8fa995d9482d414"
+  },
+  "Name": "Tesla",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd8bbf8fa995d9482d446"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd8caf8fa995d9482d44a"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd8cbf8fa995d9482d44e"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd8d0f8fa995d9482d456"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bde74ebce2155f4ef22f7"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d66b52bd5325384ba70d4"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "tradeOfferedBy": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d6c1c2bd5325384ba7124"
+  },
+  "Name": "Compact",
+  "Status": "Offer Pending",
+  "Category": "SUV",
+  "tradeOfferedBy": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "__v": 0
+}]

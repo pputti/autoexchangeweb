@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "firstName": "pravallika",
+  "lastName": "putti",
+  "email": "pputti@uncc.edu",
+  "password": "$2b$10$vOukHZ4B7m0eEAXTCw2VlOiw3i51f7YL1kI169gMyygPle41YhYF2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "firstName": "abc",
+  "lastName": "def",
+  "email": "abc@gmail.com",
+  "password": "$2b$10$uaz.GMnp0BddEZLSttejoerYemQkHkvpdXmaPQ2.E46VjEcRCtmVG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "firstName": "test",
+  "lastName": "t1",
+  "email": "test1@yahoo.com",
+  "password": "$2b$10$YvD9SpbhTFwbf/y78Ezz9eL2BfCy.iRGyXP6ncKJ6q8ucmqSR7Qf6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64499bb6b982a20f403c2296"
+  },
+  "firstName": "test",
+  "lastName": "t2",
+  "email": "test2@yahoo.com",
+  "password": "$2b$10$hbXY/yyL5Dcc8it0FwA09OUtYwDXUfsXEYvCLLHDQJKmrYwz4m22G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449a0ba72060d40384dee32"
+  },
+  "firstName": "test",
+  "lastName": "t4",
+  "email": "test4@gmail.com",
+  "password": "$2b$10$ENxV/zYHTHOQ.UtwAG.hEevP5l0aJVgDezplg2qn20OEsVwb3NF3m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449ebe06107a113a03577ea"
+  },
+  "firstName": "test",
+  "lastName": "t6",
+  "email": "test6@gmail.com",
+  "password": "$2b$10$Bbz3TxSKbil8nUl2IukEDeclrEBWmsBE/hSXRJ54GpIwfcRQ9yJ/y",
+  "__v": 0
+}]

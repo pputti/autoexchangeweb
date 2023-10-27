@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+        <title>Trade-In</title>
+        <link rel="stylesheet" href="/public/CSS/index.css">
+    </head>
+        <body>
+            <nav>
+                <a href="/"><img class="Image" src="../public/Images/Logo.jpg" alt="Logo" width="80px" height="80px"></a>
+                <ul class="nav-bar">         
+                        <%if(!user) {%>
+                            <li><a href="/users/login"> Login </a></li>
+                            <li><a href="/users/new">Signup</a></li>
+                            
+                        <%} else {%>
+                            <li><a href="/trades/new">Start Trading!</a></li>
+                            <li><a href="/users/profile">Profile </a></li>
+                            <li><a href="/users/logout">Logout  </a></li>
+                        <%}%>
+                    </ul>
+                    <hr>
+                    <a class="tradesLink" href="/">Home</a>
+                    <a class="tradesLink" href="/trades">Trades</a>
+                    
+                    
+                </nav>
+                <% if(errorMessages.length > 0) {%>
+                    <% errorMessages.forEach(message=>{%>
+                        <div class='error'>
+                            <%=message%>
+                        </div>
+                        <%});%>
+                            <%}%>
+                
+                                <% if(successMessages.length > 0) {%>
+                
+                                    <% successMessages.forEach(message=>{%>
+                                        <div class='success'>
+                                            <%=message%>
+                                        </div>
+                                        <%});%>
+                                            <%}%>
+            

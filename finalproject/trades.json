@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "64495280b982a20f403c21a9"
+  },
+  "title": "hybrid",
+  "category": "SUV",
+  "details": "before buttons1",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T16:34:08.871Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-11T22:28:46.035Z"
+  },
+  "__v": 0,
+  "Status": "Offer Pending",
+  "tradeOffered": false,
+  "Saved": false,
+  "offerName": "Compact"
+},{
+  "_id": {
+    "$oid": "64499991b982a20f403c2248"
+  },
+  "title": "HatchBack",
+  "category": "Sedan",
+  "details": "A hatchback is smaller than an SUV or minivan, but larger than a sedan. The main difference between a hatchback and a sedan is the extended trunk. Instead of the back sloping downwards, the back area is lifted, providing extra space for cargo.",
+  "status": "untraded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "64495239b982a20f403c219d"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:37:21.046Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-10T18:11:50.471Z"
+  },
+  "__v": 0,
+  "Status": "Available",
+  "tradeOffered": false,
+  "Saved": false
+},{
+  "_id": {
+    "$oid": "64499b3fb982a20f403c2291"
+  },
+  "title": "Toyata",
+  "category": "Sedan",
+  "details": "A sedan is defined as a 4-door passenger car with a trunk that is separate from the passengers with a three-box body: the engine, the area for passengers, and the trunk.",
+  "status": "traded",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "createdDate": {
+    "$date": "2023-04-26T21:44:31.973Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-10T18:10:06.349Z"
+  },
+  "__v": 0,
+  "Status": "Available",
+  "tradeOffered": false,
+  "Saved": false
+},{
+  "_id": {
+    "$oid": "645b91d53b8d265b346ae7bd"
+  },
+  "title": "Suzuki",
+  "details": "drftgyhujlikhgj",
+  "category": "Sedan",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "offerName": "",
+  "Saved": false,
+  "tradeOffered": false,
+  "Status": "Offer Pending",
+  "createdDate": {
+    "$date": "2023-05-10T12:45:09.494Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-10T18:11:46.493Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645b93a43b8d265b346ae7da"
+  },
+  "title": "BMW",
+  "details": "fghjkldfghjklhgj",
+  "category": "SUV",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "Saved": false,
+  "tradeOffered": true,
+  "Status": "Offer Pending",
+  "createdDate": {
+    "$date": "2023-05-10T12:52:52.335Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-11T16:50:39.833Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb3833b8d265b346ae9c9"
+  },
+  "title": "Crossover",
+  "details": "A crossover, crossover SUV, or crossover utility vehicle (CUV) is a type of automobile with an increased ride height that is built on unibody chassis construction shared with passenger cars",
+  "category": "Sedan",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "offerName": "",
+  "Saved": false,
+  "tradeOffered": false,
+  "Status": "Offer Pending",
+  "createdDate": {
+    "$date": "2023-05-10T15:08:51.511Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-11T22:05:30.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bb4223b8d265b346ae9e7"
+  },
+  "title": "Compact",
+  "details": "A compact SUV refers to small SUVs that are usually larger than subcompact SUVs, but smaller than midsize SUVs.",
+  "category": "SUV",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644864e0676e164408755708"
+  },
+  "offerName": "",
+  "Saved": false,
+  "tradeOffered": true,
+  "Status": "Offer Pending",
+  "createdDate": {
+    "$date": "2023-05-10T15:11:30.380Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-11T22:28:44.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645bd801f8fa995d9482d3de"
+  },
+  "title": "Tesla",
+  "details": "dxgfchjgvbkchgvjhbk",
+  "category": "SUV",
+  "image": "https://t3.ftcdn.net/jpg/05/76/70/32/240_F_576703295_HwOLhDL9KrQxheuwdZEaru6oKFpU1P6o.jpg",
+  "author": {
+    "$oid": "644857a3676e1644087556b2"
+  },
+  "offerName": "",
+  "Saved": false,
+  "tradeOffered": true,
+  "Status": "Offer Pending",
+  "createdDate": {
+    "$date": "2023-05-10T17:44:33.916Z"
+  },
+  "updatedDate": {
+    "$date": "2023-05-10T18:11:25.344Z"
+  },
+  "__v": 0
+}]
